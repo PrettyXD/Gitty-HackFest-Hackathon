@@ -112,8 +112,7 @@ regex==2023.6.3
 requests==2.31.0
 rich==13.4.2
 rpds-py==0.8.10
-ruamel.yaml==0.17.21
-ruamel.yaml.clib==0.2.6
+
 semver==3.0.1
 setuptools==67.8.0
 six==1.16.0
